@@ -1,0 +1,6 @@
+{
+  "name": "debug.js",
+  "tagline": "",
+  "body": "# Debug.js\r\n\r\n## FEATURE\r\n\r\n- a grid switch for ui debug\r\n\r\n## USAGE\r\n\r\nadd debug.js into your html file\r\n\r\n## todo\r\n\r\n- [ ] a console switch for js debug\r\n- [ ] a network proxy for preview on mobile\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
